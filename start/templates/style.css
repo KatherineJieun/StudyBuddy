@@ -1,0 +1,76 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h1 {
+    font-size: 47px;
+    text-transform: uppercase;
+    width: 60%;
+    font-family: 'Viga', cursive;
+}
+
+body{
+    margin: 0px;
+}
+
+#logo {
+    max-width: 25%;
+    min-width: 15%;
+    clear: left;
+    
+}
+
+#paragraphs {
+    max-width: 600px;
+    font-size: 22px;
+}
+
+button {
+    background-color: red;
+    width: 200px;
+    height: 60px;
+    text-transform: uppercase;
+    color: aliceblue;
+    font-size: 22px;
+}
+
+.web {
+    height: 620px;
+    float: left;
+    display: inline-block;
+}
+
+#all {
+    display: inline-block;
+    padding: 40px;
+    float: left;
+}
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+    color: red;
+}
