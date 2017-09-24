@@ -13,4 +13,4 @@ class AboutPageView(TemplateView):
     template_name = "about.html"
 
 class FormPageView(TemplateView):
-    template_name = "form.html"
+    template_name = "form2.html"
